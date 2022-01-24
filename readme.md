@@ -1,3 +1,3 @@
 ## IDM payment point gateway 
 
-With SOAPI
+With Laravel SOAPI
